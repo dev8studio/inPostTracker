@@ -1,0 +1,8 @@
+{
+    "name": "infinitydev/inposttracker",
+    "description": "Easy and simple inPost shipping tracker",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "GPL-2.0-or-later"
+}
